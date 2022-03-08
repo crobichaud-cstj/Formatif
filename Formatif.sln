@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatif", "Formatif.csproj", "{32C034EF-EC3E-4B09-BAEB-BDFDCAA84F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C034EF-EC3E-4B09-BAEB-BDFDCAA84F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C034EF-EC3E-4B09-BAEB-BDFDCAA84F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C034EF-EC3E-4B09-BAEB-BDFDCAA84F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C034EF-EC3E-4B09-BAEB-BDFDCAA84F9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2FCCEC9-F4D3-4C53-B1DF-735FC3AA62F1}
+	EndGlobalSection
+EndGlobal
